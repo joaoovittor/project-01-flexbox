@@ -1,0 +1,9 @@
+/*Global*/
+@import url(./global/global.css);
+
+/*home*/
+@import url(./home/introduction.css);
+
+/*Utilies*/
+@import url(./utilies/color.css);
+@import url(./utilies/typography.css);
