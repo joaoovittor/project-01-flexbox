@@ -14,3 +14,8 @@ a {
   color: currentColor;
   max-width: max-content;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
