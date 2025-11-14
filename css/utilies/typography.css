@@ -6,11 +6,25 @@
   font: 400 2rem/1.35 "The Seasons", serif;
   letter-spacing: -2px;
 }
+.font-3-m {
+  font: 100 2.3rem/1.35 "The Seasons", serif;
+  letter-spacing: 4px;
+}
+.font-4-m {
+  font: 100 2rem/1.35 "The Seasons", serif;
+  letter-spacing: 5px;
+}
 @media (max-width: 810px) {
   .font-1-m {
     font-size: 2.7rem;
   }
   .font-2-m {
+    font-size: 1.8rem;
+  }
+  .font-3-m {
+    font-size: 2rem;
+  }
+  .font-4-m {
     font-size: 1.8rem;
   }
 }
@@ -26,6 +40,14 @@
   .font-2-m {
     font-size: 1.4rem;
   }
+  .font-3-m {
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+  }
+  .font-4-m {
+    font-size: 1.4rem;
+    letter-spacing: 2.5px;
+  }
 }
 @media (max-width: 370px) {
   .font-1-m {
@@ -33,5 +55,13 @@
   }
   .font-2-m {
     font-size: 1.2rem;
+  }
+  .font-3-m {
+    font-size: 1.4rem;
+    letter-spacing: 2px;
+  }
+  .font-4-m {
+    font-size: 1.2rem;
+    letter-spacing: 2.5px;
   }
 }

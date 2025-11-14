@@ -3,6 +3,7 @@
 
 /*home*/
 @import url(./home/introduction.css);
+@import url(./home/about.css);
 
 /*Utilies*/
 @import url(./utilies/color.css);
