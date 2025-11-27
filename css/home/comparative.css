@@ -58,7 +58,7 @@
 .column7,
 .column8 {
   background-color: var(--co-0);
-  border-radius: 5px;
+  border-radius: 10px;
   width: 50px;
 }
 .column1 {
