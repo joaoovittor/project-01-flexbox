@@ -5,6 +5,7 @@
 @import url(./home/introduction.css);
 @import url(./home/about.css);
 @import url(./home/comparative.css);
+@import url(./home/footer.css);
 /*Utilies*/
 @import url(./utilies/color.css);
 @import url(./utilies/typography.css);

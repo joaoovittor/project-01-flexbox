@@ -31,6 +31,9 @@
 .font-5-m-s {
   font-weight: 700;
 }
+.font-6-m {
+  font: 600 1.3rem/1.35 "Hanken Grotesk", serif;
+}
 @media (max-width: 860px) {
   .font-3-m-s {
     font-size: 2.3rem;
